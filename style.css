@@ -1,0 +1,21 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+
+.carousel-inner img{
+    width: 50%;
+    height: 10px;
+}
+
+*nav{
+    background-color: black;
+}
+
+.bg-light {
+    /* background-color: #f8f9fa!important; */
+    background-color: blue;
+     
+} 
+
+.h1{
+    color: blue;
+}
+
